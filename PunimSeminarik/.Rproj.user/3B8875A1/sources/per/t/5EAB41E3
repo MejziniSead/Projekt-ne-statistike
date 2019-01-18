@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547768272601.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5EAB41E3",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1547768272601,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "21CCA5BE",
+        "caption" : "TePerkthyera",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=TePerkthyera&cache_key=21CCA5BE",
+        "displayedObservations" : 395,
+        "environment" : "",
+        "object" : "TePerkthyera",
+        "preview" : 0,
+        "totalObservations" : 395,
+        "variables" : 14
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
