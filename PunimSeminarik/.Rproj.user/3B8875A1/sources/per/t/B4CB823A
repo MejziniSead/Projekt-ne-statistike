@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3281143301",
+    "hash" : "1577389451",
     "id" : "B4CB823A",
-    "lastKnownWriteTime" : 1547760759,
-    "last_content_update" : 1547760760043,
+    "lastKnownWriteTime" : 1547995206,
+    "last_content_update" : 1547995206800,
     "path" : "C:/Users/Sead Mejzini/Desktop/Projekti ne statistike/PunimSeminarik/skripta.r",
     "project_path" : "skripta.r",
     "properties" : {
-        "cursorPosition" : "54,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "120,2",
+        "scrollLine" : "99"
     },
     "relative_order" : 2,
     "source_on_save" : false,
